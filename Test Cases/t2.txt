@@ -1,0 +1,14 @@
+7
+mark|y|rutgers
+sam|y|rutgers
+pipper|y|ucla
+jake|n
+steve|y|ucla
+chris|y|rutgers
+jackie|y|rutgers
+mark|sam
+sam|pipper
+pipper|jake
+jake|steve
+steve|chris
+chris|jackie

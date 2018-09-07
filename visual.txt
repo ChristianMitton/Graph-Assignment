@@ -1,0 +1,16 @@
+(sam,erutgers)---(jane , rutgers)-----(bob,rutgers)   (sergei,rutgers)
+                          |                 |             |
+                          |                 |             |
+                     (kaitlin,rutgers)   (samir)----(aparna,rutgers)
+                          |                            |
+                          |                            |
+  (ming,penn state)----(nick,penn state)----(ricardo,penn state)
+                          |
+                          |
+                     (heather,penn state)
+
+
+                   (michele,cornell)----(rachel)     
+                          | 
+                          | 
+     (rich,ucla)---(tom,ucla)
